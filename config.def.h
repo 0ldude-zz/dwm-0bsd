@@ -9,8 +9,8 @@ static const int systraypinningfailfirst = 1;   /* 1: if pinning fails, display 
 static const int showsystray        = 1;     /* 0 means no systray */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "Hack:bold:size=10:autohint=true:antialias=true" };
-static const char dmenufont[]       = "Hack:bold:size=10:autohint=true:antialias=true";
+static const char *fonts[]          = { "Hack-Bold:size=10:autohint=true:antialias=true" };
+static const char dmenufont[]       = "Hack-Bold:size=10:autohint=true:antialias=true";
 static const char col_bg[]          = "#282828";
 static const char col_red[]         = "#cc241d";
 static const char col_green[]       = "#98971a";
